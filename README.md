@@ -17,7 +17,7 @@
    if statements, така што при секое изминување да имам по некој if statement true и false. Трето тестирање ми беше лозинката да има спец. 
    карактер со што изминував низ вториот циклус. Потоа тестирав со тоа во лозинката да имам празно место(space) па го скокам вториот 
    циклус и одам на предпоследната линија и се враќа false. Крајно тестирав да нема празно место во лозинката и да нема специјален карактер. 
-   https://asset.cloudinary.com/dxwujkowj/f8460668401244b4c23af03d6e02881f
+   https://res.cloudinary.com/dxwujkowj/raw/upload/v1685105326/si_lab_baranje_4_i_5_kwqyzs.ods
 
 5. Првично само user ни е null, следно имаме user да не е null а password да е null, потоа имаме user не е null и password не е null
    но email е null и крајно имаме ниту едно да е null и не фрла exception, додека во другите случаи фрла nullPointerException.
